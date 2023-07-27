@@ -1,2 +1,2 @@
-# RecipeAppCAT2
- Implemented ROOM database in the recipe application
+# RecipeApp2ROOM
+ Kotlin recipe app with ROOM database
